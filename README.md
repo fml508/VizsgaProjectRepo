@@ -2,7 +2,7 @@
 
 ## Beosztások
 * **Lipóczki Gergő:** Adatbázis, PM (Project Manager)
-* **név:** Frontend, Design
+* **Sarlós Gergő:** Frontend, Design
 * **Száraz Dominik:** Backend
 
 ---
