@@ -16,5 +16,5 @@ Desc:
 
 ## Technológiai Stack
 * **Frontend:** React + TypeScript (React a Framework elvárást teljesíti.)
-* **Backend:** [Még kitöltésre vár] (Restful API elvárást telejsíti (amint kiderül milyen nyelven íródik))
+* **Backend:** PHP (Restful API elvárást telejsíti (amint kiderül milyen nyelven íródik))
 * **Adatbázis:** MySQL (A relációs adatbázis kikötést teljesíti.)
