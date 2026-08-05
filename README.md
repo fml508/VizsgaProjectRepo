@@ -13,6 +13,6 @@
 ---
 
 ## Technológiai Stack
-* **Frontend:** React + TypeScript
-* **Backend:** [Még kitöltésre vár]
-* **Adatbázis:** MySQL
+* **Frontend:** React + TypeScript (React a Framework elvárást teljesíti.)
+* **Backend:** [Még kitöltésre vár] (Restful API elvárást telejsíti (amint kiderül milyen nyelven íródik))
+* **Adatbázis:** MySQL (A relációs adatbázis kikötést teljesíti.)
