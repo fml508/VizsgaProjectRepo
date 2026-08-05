@@ -8,7 +8,9 @@
 ---
 
 ## Témakör
-* [Még kitöltésre vár]
+* Közösségi Eszközkölcsönző és Foglalási Webalkalmazás
+* Desc:
+* társasházak, kollégiumok és kisebb közösségek tagjai átláthatóan kölcsön tudják adni, letudják foglaglni és nyomon tudják követni a ritkán használt eszközeiket.
 
 ---
 
